@@ -45,5 +45,4 @@ public class MinTree implements MinimumInTree {
             return tree2;
         }
     }
-
 }
